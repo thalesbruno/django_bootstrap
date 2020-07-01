@@ -21,7 +21,6 @@ git clone https://github.com/thalesbruno/django_bootstrap .
 Install the dependencies
 
 ```bash
-cd src
 pip install -r requirements/local.txt
 ```
 
@@ -32,4 +31,4 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-Yep! App running in `http://127.0.0.1:8000` :)
+Yay! App running in `http://127.0.0.1:8000` :)
